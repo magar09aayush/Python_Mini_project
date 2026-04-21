@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "date_created": "2026-03-16",
+        "name": "kathmandu",
+        "type": "boys",
+        "fee_paid": true,
+        "cancelled": false,
+        "cancellation_date": null
+    }
+]
